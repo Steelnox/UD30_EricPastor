@@ -1,0 +1,39 @@
+table{
+    border:rgb(189, 184, 184) 5px solid;
+    border-spacing: 0px;
+}
+td{
+    border:rgb(160, 160, 160) 1px solid;
+    width:105px;
+    font-weight: bold;
+    font-size: 12px;
+}
+
+.celda1{
+    background-color:lightgreen;
+    text-align: center;
+    width: 800px;
+}
+
+.celda2{
+    background-color: rgb(25, 238, 231);
+}
+
+.textrojo{
+    color:red;
+    text-align: center;
+}
+
+.normal{
+    text-align: center;
+}
+
+.celda6{
+    vertical-align:bottom;
+    text-align:end;
+    background-color: plum;
+}
+caption{
+    font-weight: bold;
+    font-size: 10px;
+}
