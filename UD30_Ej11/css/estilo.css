@@ -1,0 +1,20 @@
+th{
+    background-color: rgb(14, 82, 40);
+    color:darkseagreen;
+
+}
+table{
+    border:rgb(189, 184, 184) 5px solid;
+    border-spacing: 0px;
+}
+th, td{
+    border:dodgerblue 1px solid;
+    width:105px;
+}
+
+.verdesuave{
+    background-color: rgb(170, 228, 170);
+}
+.verdefuerte{
+    background-color: rgb(99, 145, 120);
+}
