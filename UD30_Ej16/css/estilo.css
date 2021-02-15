@@ -1,0 +1,46 @@
+th{
+    background-color: rgb(76, 141, 101);
+    color:brown;
+    font-weight: lighter;
+}
+table{
+    border:rgb(189, 184, 184) 5px solid;
+    border-spacing: 0px;
+}
+th, td{
+    border:rgb(148, 165, 182) 2px solid;
+}
+.celda1{
+    width:250px;
+    color:brown;
+    text-align: center;
+    background-color: rgb(221, 164, 126);
+}
+.celda1v2{
+    color:brown;
+    text-align: center;
+    background-color: rgb(221, 164, 126);
+}
+.celda1v3{
+    width:100px;
+    color:brown;
+    text-align: center;
+    background-color: rgb(221, 164, 126);
+}
+.celda2{
+    width:100px;
+    color:brown;
+    text-align: center;
+    background-color: rgb(222, 224, 99);
+}
+.celda2v2{
+    width:125px;
+    color:brown;
+    text-align: center;
+    background-color: rgb(222, 224, 99);
+}
+.celda3{
+    color:brown;
+    text-align: center;
+    background-color: rgba(222, 224, 99, 0.479);
+}
