@@ -1,0 +1,10 @@
+table{
+    border:rgb(189, 184, 184) 1px solid;
+}
+th,td{
+    border:rgb(166, 169, 172) 1px solid;
+    background-color:white;
+}
+.negrita{
+    font-weight: bold;
+}
