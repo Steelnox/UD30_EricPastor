@@ -1,0 +1,18 @@
+th{
+    background-color: aliceblue;
+    width: 500px;
+}
+table{
+    border:rgb(189, 184, 184) 5px solid;
+    border-spacing: 0px;
+    margin-left: 150px;
+    margin-top: 200px;
+}
+td{
+    border:rgb(166, 169, 172) 1px solid;
+    text-align: center;
+    background-color: rgb(247, 238, 115);
+}
+body{
+    background-repeat: no-repeat;
+}
